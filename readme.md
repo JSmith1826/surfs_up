@@ -23,12 +23,24 @@ Here are some observations:
 - While the temprature averages and spread for both months were very similar December did have a significantly lower minimum Temp 56 F compaired to a minimum of 64 degrees
 
 ###
-June Statistical Data: ![June Stats](\images\june_stats)
+June Statistical Data: 
 
-December Statistical Data: ![December](\images\dec_stats)
+![June Stats](./images/june_stats.png)
 
-![June Temps](\images\june.png)
 
-![December Temps](\images\december.png)
+
+December Statistical Data: 
+
+![December](./images/dec_stats.png)
+
+
+
+
+
+
+![June Temps](./images/june.png)
+
+![December Temps](./images/december.png)
+
 
 ## Summary
