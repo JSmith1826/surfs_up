@@ -44,3 +44,9 @@ December Statistical Data:
 
 
 ## Summary
+
+That is all that our easygoing buddy W. Avy has asked for so good luck to him. I presonally would have wanted a more complete picture how the weather varried from month to month. 
+
+For instance I would have wanto got grab and summerize the precipitation data. Do you like to eat ice cream while it is raining?
+
+I would have also liked to plot gather and calculate some basic statistics (mean, min max) for each month the year. 
